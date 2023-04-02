@@ -1,0 +1,50 @@
+#banner {
+    background-image: linear-gradient(rgb(0, 0, 0, 0.4),
+            rgb(0, 0, 0, 0.4)),
+        url("../../../assets/imgPrueba/bannerCafe.jpg");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 810px;
+    margin-top: 0%;
+}
+
+
+.col-7 {
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-bottom: 30%;
+    text-align: center;
+    padding: 1%;
+    color: aliceblue;
+}
+
+h1 {
+    font-size: 400%;
+    font-style: unset;
+}
+
+button {
+    width: 10%;
+    margin-left: -35%;
+    color: rgb(255, 255, 255);
+}
+
+.list-group {
+    padding-right: 30px;
+    margin-top: 1%;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    font-size: 20px;
+}
+
+
+a:hover {
+    color: rgb(255, 213, 0);
+}

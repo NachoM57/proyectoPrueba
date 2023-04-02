@@ -1,0 +1,55 @@
+#servicios{
+    background-image:linear-gradient(rgb(0,0,0,0.4),
+    rgb(0,0,0,0.4)),
+    url("../../../assets/imgPrueba/bg2.jpg") ;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 50rem;
+    margin-top: 10%;
+    }
+    .col-7 {
+        margin-top: 10%;
+        margin-left: 20%;
+        margin-bottom: 30%;
+        text-align: center;
+        padding: 1%;
+         color: aliceblue;
+    }  
+
+    button{
+        margin-left: -33%;
+        margin-top: 20%;
+    }
+
+    h1{
+        font-size: 300%;
+font-style:unset;
+    }
+
+    .list-group{
+       padding-left: 10%;
+       margin-left: 40%;
+    }
+
+    .list-group.list-group-horizontal{
+      margin-left: -7%;
+        margin-top: 7%;
+        color: rgb(255, 210, 86);
+    }
+
+    h6{
+        margin-top: 30%;
+    }
+
+
+    .rounded.float-end{
+       width: 50%;
+       height: 40rem;
+      margin-top: -34%;
+    }
+
+    .tituloparrafo.col-3{
+        margin-left: 12%;
+    }
+

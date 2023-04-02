@@ -1,0 +1,34 @@
+.container {
+  margin-top: 7%;
+}
+
+.col-5 {
+  text-align: center;
+  position: absolute;
+  margin-left: 17%;
+}
+
+.granitos {
+  margin-left: 105%;
+  margin-top: -40%;
+}
+
+.tarjetas {
+  margin-top: 20%;
+}
+
+.card {
+  border: none;
+}
+
+h5,
+p {
+  text-align: center;
+}
+
+button {
+  width: 10%;
+  color: rgb(255, 255, 255);
+  margin-top: 7%;
+  margin-left: 45%;
+}
