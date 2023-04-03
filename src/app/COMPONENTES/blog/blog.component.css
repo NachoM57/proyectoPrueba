@@ -1,0 +1,21 @@
+h1 {
+    font-size: 300%;
+    font-style: unset;
+}
+
+.tarjetas {
+    margin-top: 1%;
+    padding: 10%;
+}
+
+.row {
+    margin-top: 7%;
+}
+
+img {
+    border-radius: 5%;
+}
+
+.card {
+    border: none;
+}

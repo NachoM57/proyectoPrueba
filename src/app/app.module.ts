@@ -8,6 +8,8 @@ import { CafeServiciosComponent } from './COMPONENTES/cafe-servicios/cafe-servic
 import { BlogComponent } from './COMPONENTES/blog/blog.component';
 import { FooterComponent } from './COMPONENTES/footer/footer.component';
 import { AppRoutingModule } from './app-routing.module';
+import { CafeEspecialComponent } from './COMPONENTES/cafe-especial/cafe-especial.component';
+import { CafeEpecial2Component } from './COMPONENTES/cafe-epecial2/cafe-epecial2.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +18,9 @@ import { AppRoutingModule } from './app-routing.module';
     TiposCafesComponent,
     CafeServiciosComponent,
     BlogComponent,
-    FooterComponent
+    FooterComponent,
+    CafeEspecialComponent,
+    CafeEpecial2Component
   ],
   imports: [
     BrowserModule,
