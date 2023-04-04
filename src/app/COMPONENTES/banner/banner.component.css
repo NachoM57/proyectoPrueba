@@ -43,3 +43,7 @@ a {
 a:hover {
     color: rgb(255, 213, 0);
 }
+
+button {
+    margin-top: 10%;
+}

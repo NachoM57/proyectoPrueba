@@ -12,7 +12,6 @@
 .col-7 {
     margin-top: 10%;
     margin-left: 20%;
-    margin-bottom: 30%;
     text-align: center;
     color: aliceblue;
 }
@@ -28,11 +27,11 @@ h1 {
 
 
 .list-group {
-    margin-top: 7%;
-    color: rgb(255, 210, 86);
+    margin-top: 20%;
+    color: rgb(255, 231, 95);
 }
 
 h6 {
-    margin-top: 30%;
+    margin-top: 10%;
     font-size: 150%;
 }
