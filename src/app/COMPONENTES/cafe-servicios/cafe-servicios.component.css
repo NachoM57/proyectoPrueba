@@ -1,7 +1,7 @@
 #servicios {
     background-image: linear-gradient(rgb(0, 0, 0, 0.4),
             rgb(0, 0, 0, 0.4)),
-        url("../../../assets/imgPrueba/bg2.jpg");
+        url("https://firebasestorage.googleapis.com/v0/b/frontend-cafe-bba77.appspot.com/o/imagenes%20cafe%2Fbg2.jpg?alt=media&token=4958e14c-0a76-49b8-b908-bb4382ed8d7e");
     background-position: center;
     background-size: cover;
     width: 100%;

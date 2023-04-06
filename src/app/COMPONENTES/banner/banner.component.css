@@ -1,7 +1,7 @@
 #banner {
     background-image: linear-gradient(rgb(0, 0, 0, 0.4),
             rgb(0, 0, 0, 0.4)),
-        url("../../../assets/imgPrueba/bannerCafe.jpg");
+        url("https://firebasestorage.googleapis.com/v0/b/frontend-cafe-bba77.appspot.com/o/imagenes%20cafe%2FbannerCafe.jpg?alt=media&token=9e3af740-60ba-4aa5-a93b-5e12478cbda6");
     background-position: center;
     background-size: cover;
     width: 100%;
